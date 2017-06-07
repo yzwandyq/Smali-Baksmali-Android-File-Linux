@@ -66,11 +66,11 @@ Next:
 ----------------------------
 7. Install/安装依赖框架
    
-   Some机型例如小米有很多资源在其他apk关联，要安装框架才可以反编译/回编译其他apk
+     Some机型例如小米有很多资源在其他apk关联，要安装框架才可以反编译/回编译其他apk
 
-   EXAMPLE
+      EXAMPLE
 
-   $ ~/Mytools/tools/apktool if framework-res.apk
+       $ ~/Mytools/tools/apktool if framework-res.apk
    
 ===========================
 
